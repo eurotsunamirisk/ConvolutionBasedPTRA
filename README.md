@@ -38,6 +38,8 @@ pip install numpy pandas scipy matplotlib
 
 ## License
 
-This repository is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. See [LICENSE](LICENSE).
+This repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
 
-SPDX-License-Identifier: CC-BY-NC-ND-4.0
+See [LICENSE](LICENSE) for the full license text.
+
+SPDX-License-Identifier: CC-BY-4.0
